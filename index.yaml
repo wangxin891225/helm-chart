@@ -3,42 +3,42 @@ entries:
   springboot-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-25T14:57:13.582496+08:00"
+    created: "2024-01-31T16:20:28.616072+08:00"
     description: A Helm chart for Kubernetes
     digest: c75a905c4f290f6eb98bb6eb65ad353406e48a557cada2f3af7bc200e524df26
     name: springboot-chart
     type: application
     urls:
-    - https://dayuange123.github.io/helm-chart/springboot-chart-0.4.0.tgz
+    - https://wangxin891225.github.io/helm-chart/springboot-chart-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-25T14:57:13.582169+08:00"
+    created: "2024-01-31T16:20:28.615625+08:00"
     description: A Helm chart for Kubernetes
-    digest: 6eb076c02f6ec976c6d72269cff11968e5dc8a64d53fd3644cb7d24303c64887
+    digest: d403d83fdc7416c4d386c77fafa811d34860b270702269c46d78a60f74cdfb57
     name: springboot-chart
     type: application
     urls:
-    - https://dayuange123.github.io/helm-chart/springboot-chart-0.3.0.tgz
+    - https://wangxin891225.github.io/helm-chart/springboot-chart-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-25T14:57:13.581773+08:00"
+    created: "2024-01-31T16:20:28.615193+08:00"
     description: A Helm chart for Kubernetes
     digest: 856a6854a65eabdb238f2abdee50faf1445c06139eadca351cec11067234708e
     name: springboot-chart
     type: application
     urls:
-    - https://dayuange123.github.io/helm-chart/springboot-chart-0.2.0.tgz
+    - https://wangxin891225.github.io/helm-chart/springboot-chart-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-25T14:57:13.581223+08:00"
+    created: "2024-01-31T16:20:28.614737+08:00"
     description: A Helm chart for Kubernetes
     digest: 09300b67bb5ff778cf8bd7925ac9f7112f01c9cf841f64e6ea41ef4c9553194e
     name: springboot-chart
     type: application
     urls:
-    - https://dayuange123.github.io/helm-chart/springboot-chart-0.1.0.tgz
+    - https://wangxin891225.github.io/helm-chart/springboot-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-25T14:57:13.580052+08:00"
+generated: "2024-01-31T16:20:28.613972+08:00"
