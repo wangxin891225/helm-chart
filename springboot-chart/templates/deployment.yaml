@@ -44,10 +44,14 @@ spec:
             httpGet:
               path: /liveness
               port: {{ .Values.containerPort }}
+            initialDelaySeconds: 30
+            periodSeconds: 10
           readinessProbe:
             httpGet:
               path: /readiness
               port: {{ .Values.containerPort }}
+            initialDelaySeconds: 30
+            periodSeconds: 10
           resources:
             {{- toYaml .Values.resources | nindent 12 }}
           {{- with .Values.volumeMounts }}

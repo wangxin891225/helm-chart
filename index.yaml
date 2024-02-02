@@ -3,9 +3,9 @@ entries:
   springboot-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-31T16:20:28.616072+08:00"
+    created: "2024-02-02T15:52:09.167499+08:00"
     description: A Helm chart for Kubernetes
-    digest: c75a905c4f290f6eb98bb6eb65ad353406e48a557cada2f3af7bc200e524df26
+    digest: f8cd444cbfc841bd37a2ab0d5fe268ca6e287e06da816db58892544ad40d828f
     name: springboot-chart
     type: application
     urls:
@@ -13,9 +13,9 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-31T16:20:28.615625+08:00"
+    created: "2024-02-02T15:52:09.167186+08:00"
     description: A Helm chart for Kubernetes
-    digest: d403d83fdc7416c4d386c77fafa811d34860b270702269c46d78a60f74cdfb57
+    digest: 266a2bb381aad467d28360f1131a2214c111b0066c707f9df41e0bd21e5a08a3
     name: springboot-chart
     type: application
     urls:
@@ -23,7 +23,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-31T16:20:28.615193+08:00"
+    created: "2024-02-02T15:52:09.16671+08:00"
     description: A Helm chart for Kubernetes
     digest: 856a6854a65eabdb238f2abdee50faf1445c06139eadca351cec11067234708e
     name: springboot-chart
@@ -33,7 +33,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-31T16:20:28.614737+08:00"
+    created: "2024-02-02T15:52:09.166225+08:00"
     description: A Helm chart for Kubernetes
     digest: 09300b67bb5ff778cf8bd7925ac9f7112f01c9cf841f64e6ea41ef4c9553194e
     name: springboot-chart
@@ -41,4 +41,4 @@ entries:
     urls:
     - https://wangxin891225.github.io/helm-chart/springboot-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-31T16:20:28.613972+08:00"
+generated: "2024-02-02T15:52:09.164354+08:00"
