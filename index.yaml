@@ -41,4 +41,25 @@ entries:
     urls:
     - https://wangxin891225.github.io/helm-chart/springboot-chart-0.1.0.tgz
     version: 0.1.0
+  app-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-06-12T15:21:51.687482+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 4c5a0e7509ac81a517eb94e13acacc058ec9e4bcbf036685a0878bbfc66dc273
+    name: app-chart
+    type: application
+    urls:
+    - https://wangxin891225.github.io/helm-chart/app-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-06-12T15:21:51.687054+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 788c97c29f7e1caa658aba79b05ad32f0d10a88fccc74bbac368d693cbf37f55
+    name: app-chart
+    type: application
+    urls:
+    - https://wangxin891225.github.io/helm-chart/app-chart-0.1.0.tgz
+    version: 0.1.0
 generated: "2024-02-02T15:52:09.164354+08:00"
